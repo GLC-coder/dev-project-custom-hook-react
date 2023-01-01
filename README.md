@@ -1,10 +1,5 @@
 # Getting Started with dev-project-custom-hook-react
 
-## Website URL
-
-This project was hoseed on Firebase https://bento-kings-meadows.web.app
-
-
 ## Available Scripts
 
 In the project directory, you can run:
